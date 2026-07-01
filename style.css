@@ -1,1 +1,12 @@
-
+body{
+    background-color: rgb(255, 255, 255);
+}
+header{
+    background-color: black;
+}
+main{
+    background-color: rgba(255, 255, 255, 0.404);
+}
+section{
+    background-color: white;
+}
